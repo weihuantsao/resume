@@ -1,0 +1,234 @@
+{
+  "basics": {
+    "name": "曹瑋桓",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "weihuan.iii@gmail.com",
+    "phone": "0989-703-299",
+    "website": "https://github.com/weihuantsao",
+    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "location": {
+      "address": "台中市大里區樹王路366巷6號",
+      "postalCode": "412",
+      "city": "台中市大里區",
+      "countryCode": "Taiwan",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Institute for Information Industry",
+      "position": "Research & Development Engineer",
+      "website": "",
+      "startDate": "2016-04-01",
+      "endDate": "2017-04-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of National Chiao Tung",
+      "area": "Civil Engineering-Computer-aided engineering",
+      "studyType": "Master's Degree",
+      "startDate": "2013-09",
+      "endDate": "2015-09",
+      "gpa": "3.56[GPA]",
+      "courses": [
+        "Data Mining Research & Practice",
+        "Artificial Intelligence",
+        "Global Positioning System",
+        "Computer Network",
+        "Innovation Engineering",
+        "Cultivation of Leadership in ICT"
+      ]
+    },
+    {
+      "institution": "University of National Kaohsiung University of Applied Sciences",
+      "area": "Information Management",
+      "studyType": "Bachelor Degree",
+      "startDate": "2008-09",
+      "endDate": "2012-09",
+      "gpa": "3.2[GPA]",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "National Software Competition",
+      "date": "2014",
+      "awarder": "bronze medal",
+      "summary": " Wisdom-Aware Computing &  Interactive Media"
+    },
+    {
+      "title": "Texas Instruments Innovation Challenge Taiwan DSP/MCU Design Contest",
+      "date": "2012",
+      "awarder": "Excellent award",
+      "summary": "Innovative Application Implementation"
+    },
+    {
+      "title": "Network Communication Software and Creative Applications Contest ",
+      "date": "2011",
+      "awarder": "Excellent award",
+      "summary": "Mobile application"
+    },
+    {
+      "title": "International Embedded System Design Contest",
+      "date": "2011",
+      "awarder": "Excellent award",
+      "summary": "Creative Applications"
+    },
+    {
+      "title": "Telecom Innovation & Application Contest ",
+      "date": "2011",
+      "awarder": "Firast award",
+      "summary": "Cloud Applications"
+    },
+    {
+      "title": "Network Communication Software and Creative Applications Contest",
+      "date": "2011",
+      "awarder": "Excellent award",
+      "summary": "Mobile application"
+    },
+    {
+      "title": "International ICT Innovative Services Award",
+      "date": "2010",
+      "awarder": "Firast award,Second prize",
+      "summary": "Information Technology Application , Google  Enterprise Innovation and Application"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Information Management & Practice Conference(IMP) 2011",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "Based on Google Android cycling tube Development of Platform of Management System.<br>Development of Community - based Meteorological Monitoring and Crisis Warning System Integrated with 3G Mobile.<br>Development of remote home care gateway based on ANT wireless sensor network"
+    },
+    {
+      "name": "National Science Council (NSC)",
+      "publisher": "NSC102-2625-M009-007 , MOST103-2625-M009-003",
+      "releaseDate": "",
+      "website": "",
+      "summary": "2013.08-2014.10<br>Research and Development of Smart Energy - saving Wireless Structure Health Monitoring and Sensing System Based on Seismic Sensing Technology<br>2013.08-2015.10<br>Optimized energy-saving wireless sensing points are deployed in intelligent energy-saving wireless structure health monitoring and sensing system research and development"
+    },
+    {
+      "name": "International Conference on Computing and Precision Engineering(ICCPE) 2016",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "Establishment of Analytical Platform for Precision Machinery Using History of Power Consumption"
+    },
+    {
+      "name": "Patent ",
+      "publisher": "ANTI-COLLISION SYSTEM AND ANTI-COLLISION METHOD",
+      "releaseDate": "2016/10",
+      "website": "",
+      "summary": "The processing unit estimates an arm estimation path of the mechanical arm, analyzes the first image to establish a coordinate system and determines whether the object will collide with the mechanical arm according to the arm estimation path of the mechanical arm and the object movement estimation path of the object."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "jQuery",
+        "jade",
+        "JSP"
+      ]
+    },
+    {
+      "name": "Communication System",
+      "level": "Master",
+      "keywords": [
+        "3G",
+        "ANT+",
+        "Bluetooth",
+        "ZigBee",
+        "RS232,485",
+        "Socket"
+      ]
+    },
+    {
+      "name": "Programming language",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "Java",
+        "C",
+        "C++",
+        "R",
+        "Matlab",
+        "ActionScript"
+      ]
+    },
+    {
+      "name": "Embedded System",
+      "level": "High",
+      "keywords": [
+        "Arduino",
+        "Raspberry Pi",
+        "Intel® Edison",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "level": "General",
+      "keywords": [
+        "MySQL",
+        "SQL Server",
+        "SQLite"
+      ]
+    },
+    {
+      "name": "Optimization",
+      "level": "High",
+      "keywords": [
+        "Genetic Algorithms",
+        "Particle Swarm Optimization",
+        "Ant Colony",
+        "Artificial neural network"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "General"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Exercise",
+      "keywords": [
+        "Badminton",
+        "Jogging"
+      ]
+    },
+    {
+      "name": "Movie",
+      "keywords": [
+        "Action",
+        "Comedy",
+        "Science fiction",
+        "Drama"
+      ]
+    }
+  ],
+  "references": []
+}
